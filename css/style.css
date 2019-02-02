@@ -1,0 +1,30 @@
+.header{
+	background-image: url(../images/1.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.slider{
+	background-color: rgba(100,100,100,0.5);
+
+}
+.content{
+	padding: 190px 40px;
+}
+.content h1{
+	color: white;
+	margin-bottom: 100px;
+}
+.content p{
+	color: white;
+}
+.ci {
+    bottom: 80px;
+    
+}
+.ci li {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: white;
+}
