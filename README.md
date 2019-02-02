@@ -1,2 +1,2 @@
 # bootstrap_custom_slider
-practice day 12
+https://emamulhassan.github.io/bootstrap_custom_slider/
